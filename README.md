@@ -1,16 +1,8 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
-
 <h1 align="center">Hi, I'm Henrique Melo</h1>
 <h3 font-size="20" align="center">A passionate Full Stack developer and a student from Portugal.</h3>
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
